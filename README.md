@@ -1,2 +1,2 @@
-# Bus_Project
-This repo is used to store the code of bus mangement
+This repo used for internal test.
+Test the gameing property and the reference app latency.
